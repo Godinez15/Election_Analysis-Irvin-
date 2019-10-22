@@ -46,11 +46,21 @@ The analysis of the election show that:
 ------------------------------------------------------------  
 # Challenge Overview
 ------------------------------------------------------------
-
+- Preety much we learned how to refactor code. Also, through various edits
+I reorganized, looked at patterns and edited variable assignments to 
+get a different type of output. I learned how to input a new line through VSC.
+Apart from also getting some practice connecting actual Excel files to VSC,
+I also got more practice organizing my code, using comments so that I know exactly 
+what's going on.
 
 ------------------------------------------------------------
 # Challenge Summary
 ------------------------------------------------------------
+To summarize this whole challenge, it was an incredible practice in applying 
+basic everyday use fundamentals in order to pull certain data and then organize that
+same data to a more clean and easy to read format to use in maybe a presentation???
+I loved this Module can't wait for the next.	
 >>>>>>> c62f55f08e32baa01a68d3239e0c8acbc7747311
+
 
 
